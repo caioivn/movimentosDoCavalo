@@ -1,0 +1,1 @@
+Este projeto tem como objetivo encontrar o menor conjunto de movimentos possíveis de um cavalo (peça de xadrez), podendo sair de qualquer quadrado a e podendo chegar em qualquer quadrado b dentro de um tabuleiro de xadrez, sendo que a e b são quadrados diferentes.
