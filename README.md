@@ -9,4 +9,5 @@ Entrada:
 A entrada contém um ou mais casos de teste. Cada caso de teste consiste de uma linha contendo dois quadrados separados por um espaço. Um quadrado será uma string consistindo de uma letra (a-h) representando a coluna e um dígito (1-8) representando a linha do tabuleiro de xadrez.
 
 Saída:
+
 para cada caso de teste imprima uma linha dizendo "To get from xx to yy takes n knight moves.". No caso xx é a origem, yy é o destino e n é a quantidade de movimentos necessários para ir de xx até yy.
